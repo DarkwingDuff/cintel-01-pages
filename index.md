@@ -9,3 +9,4 @@ This isn't my dog, but he kind of looks like him.
 - Spaces matter
 - Spelling Matters
 - Capitalization matters
+remote_theme: pages-themes/modernist@v0.2.0
