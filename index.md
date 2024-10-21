@@ -4,7 +4,7 @@ My First website using Markdown and GitHub Pages.
 [My favorite AI assistant](chat.openai.com)
 ## Images
 This isn't my dog, but he kind of looks like him.
-20240719_171447.jpg/20240719_171447.jpg
+Logo: 20240719_171447.jpg/20240719_171447.jpg
 ## Reminders
 - Spaces matter
 - Spelling Matters
