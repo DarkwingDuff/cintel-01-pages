@@ -1,9 +1,9 @@
 # My Website Title
 My First website using Markdown and GitHub Pages.
-## Links (Two hashes is a second level heading)
+## Links
 Here's a clickable link: [My favorite AI assistant](chat.openai.com)
 ## Images
-Images look like links except with an exclamation directly in front
+This isn't my dog, but he kind of looks like him.
 ![My Shiny Image](https://heronscrossing.vet/wp-content/uploads/Golden-Retriever-1024x683.jpg)
 ##Reminders
 Use a dash space for unordered lists
