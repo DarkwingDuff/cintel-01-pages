@@ -6,7 +6,6 @@ Here's a clickable link: [My favorite AI assistant](chat.openai.com)
 This isn't my dog, but he kind of looks like him.
 ![My Shiny Image](https://heronscrossing.vet/wp-content/uploads/Golden-Retriever-1024x683.jpg)
 ## Reminders
-Use a dash space for unordered lists
 - Spaces matter
 - Spelling Matters
 - Capitalization matters
