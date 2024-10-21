@@ -1,3 +1,8 @@
+...
+layout: default
+title: My first website
+...
+
 # My Website Title
 My First website using Markdown and GitHub Pages.
 ## Links
