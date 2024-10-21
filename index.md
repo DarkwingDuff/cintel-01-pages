@@ -10,4 +10,4 @@ This isn't my dog, but he kind of looks like him.
 - Spelling Matters
 - Capitalization matters
 
-theme: modernist
+
